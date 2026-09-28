@@ -1,0 +1,16 @@
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EXAM-ADO(Olympics).exe.config
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EXAM-ADO(Olympics).exe
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EXAM-ADO(Olympics).pdb
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EntityFramework.dll
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EntityFramework.SqlServer.dll
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\System.Configuration.ConfigurationManager.dll
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\System.Data.SqlClient.dll
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EntityFramework.xml
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\EntityFramework.SqlServer.xml
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\System.Configuration.ConfigurationManager.xml
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\bin\Debug\System.Data.SqlClient.xml
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\obj\Debug\EXAM-ADO(Olympics).csproj.AssemblyReference.cache
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\obj\Debug\EXAM-ADO(Olympics).csproj.CoreCompileInputs.cache
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\obj\Debug\EXAM-ADO.BF005921.Up2Date
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\obj\Debug\EXAM-ADO(Olympics).exe
+X:\Work\GIT-ADO\EXAM-ADO(Olympics)\EXAM-ADO(Olympics)\obj\Debug\EXAM-ADO(Olympics).pdb
